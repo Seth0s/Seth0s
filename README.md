@@ -2,10 +2,6 @@
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=for-the-badge&logo=github&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/seu-usuario?style=for-the-badge&logo=github&color=blue)
-![GitHub forks](https://img.shields.io/github/forks/seu-usuario?style=for-the-badge&logo=github&color=blue)
-
 **Desenvolvedor apaixonado por criar soluções inovadoras e eficientes**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
