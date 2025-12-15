@@ -64,13 +64,6 @@ API RESTful desenvolvida com Laravel para gerenciamento de dados:
 
 **Tecnologias:** `Laravel` `PHP` `MySQL` `REST API`
 
-## 📈 Contribuições
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF)
-
-</div>
 
 
 
