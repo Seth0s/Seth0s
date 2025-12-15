@@ -2,18 +2,21 @@
 
 <div align="center">
 
-**Desenvolvedor apaixonado por criar soluções inovadoras e eficientes**
+
+**Developer passionate about creating innovative and efficient solutions**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-sabinoti)
+
+
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Desenvolvedor Full Stack com experiência em desenvolvimento web e mobile.
+Full Stack Developer with experience in web and mobile development.
 
-## 💻 Tecnologias & Ferramentas
+## 💻 Technologies and Tools
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -32,34 +35,36 @@ Desenvolvedor Full Stack com experiência em desenvolvimento web e mobile.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### Banco de Dados
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Ferramentas
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📁 Projetos em Destaque
+## 📁 Featured Projects
 
-### 📱 Aplicativo Mobile
-Aplicativo mobile desenvolvido com React Native e Expo para gestão de eventos e ministérios:
-- Interface responsiva e moderna
-- Navegação por tabs
-- Gestão de usuários e eventos
-- Sistema de calendário integrado
+### 📱 Mobile Application
+Mobile application developed with React Native and Expo for event and ministry management:
+- Responsive and modern interface
+- Tab navigation
+- User and event management
+- Integrated calendar system
 
-**Tecnologias:** `React Native` `Expo` `TypeScript` `React Navigation`
+**Technologies:** `React Native` `Expo` `TypeScript` `React Navigation`
 
-### 🌐 Backend Laravel
-API RESTful desenvolvida com Laravel para gerenciamento de dados:
-- Arquitetura MVC
-- Sistema de autenticação
-- Migrations e Seeders
-- Estrutura escalável e bem organizada
+### 🌐 Laravel Backend
+RESTful API developed with Laravel for data management:
+- MVC architecture
+- Authentication system
+- Migrations and Seeders
+- Scalable and well-organized structure
 
-**Tecnologias:** `Laravel` `PHP` `MySQL` `REST API`
+**Technologies:** `Laravel` `PHP` `MySQL` `REST API`
+
+
 
 
 
